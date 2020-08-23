@@ -1,0 +1,49 @@
+ff_gen_drv.pbi: \
+  C:\Users\admin\Desktop\SD_Card\Libraries\Fatfs\ff_gen_drv.c \
+  C:\Users\admin\Desktop\SD_Card\Libraries\Fatfs/ff_gen_drv.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\Fatfs/diskio.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\Fatfs/integer.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\Fatfs/ff.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\Fatfs/ffconf.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include\core_cm4.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include/cmsis_version.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include/cmsis_compiler.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include/mpu_armv7.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\CMSIS\Device\ST\STM32F4xx\Include/system_stm32f4xx.h \
+  C:\Users\admin\Desktop\SD_Card\inc\stm32f4xx_conf.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_can.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_crc.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_cryp.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dbgmcu.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dma.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_exti.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_flash.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_hash.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_i2c.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_iwdg.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_pwr.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rng.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rtc.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_sdio.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_syscfg.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_tim.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_wwdg.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h \
+  C:\Users\admin\Desktop\SD_Card\Libraries\Fatfs/sdio_sd.h

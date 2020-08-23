@@ -1,0 +1,6 @@
+ff.pbi: D:\STM32\SD_Card\Libraries\Fatfs\ff.c \
+  D:\STM32\SD_Card\Libraries\Fatfs/ff.h \
+  D:\STM32\SD_Card\Libraries\Fatfs/integer.h \
+  D:\STM32\SD_Card\Libraries\Fatfs/ffconf.h \
+  D:\STM32\SD_Card\Libraries\Fatfs/diskio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdarg.h

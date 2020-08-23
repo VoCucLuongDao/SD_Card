@@ -1,0 +1,4 @@
+unicode.pbi: D:\STM32\SD_Card\Libraries\Fatfs\unicode.c \
+  D:\STM32\SD_Card\Libraries\Fatfs\ff.h \
+  D:\STM32\SD_Card\Libraries\Fatfs/integer.h \
+  D:\STM32\SD_Card\Libraries\Fatfs/ffconf.h
